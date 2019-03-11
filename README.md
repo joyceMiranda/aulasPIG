@@ -1,3 +1,5 @@
-# aulasPIG
+* Repositório com conteúdo referente à disciplina de Projeto de Interface Gráfica.
 
-Material de Disciplina - Projeto de Interface GrÃ¡fica
+* Profa. Joyce Miranda dos Santos
+
+* Contato: mds.joyce@gmail.com
