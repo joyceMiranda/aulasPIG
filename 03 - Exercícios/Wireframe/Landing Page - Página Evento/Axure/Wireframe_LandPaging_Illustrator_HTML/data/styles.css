@@ -9,11 +9,13 @@
 }
 .box_1 {
 }
-.box_2 {
+.ellipse {
 }
 .image {
 }
 .placeholder {
+}
+.button {
 }
 .primary_button {
   color:#FFFFFF;
@@ -59,45 +61,27 @@
   font-size:10px;
   text-align:left;
 }
-.label {
-  font-size:14px;
-  text-align:left;
-}
-.text_field {
-  font-size:14px;
-  color:#000000;
-  text-align:left;
-}
 .paragraph {
   text-align:left;
 }
-.text_field1 {
+.text_field {
   color:#000000;
   text-align:left;
 }
-.text_area {
-  color:#000000;
-  text-align:left;
-}
-.shape {
-}
-.text_field2 {
-  color:#000000;
-  text-align:left;
+.html_button {
+  text-align:center;
 }
 .hint {
   color:#999999;
 }
-.menu_background {
-}
-.menu_items {
+.label {
+  font-size:14px;
   text-align:left;
 }
-.image1 {
-  color:#000000;
-}
-.table {
+.text_field1 {
   font-size:14px;
+  color:#000000;
+  text-align:left;
 }
 .droplist {
   font-size:14px;
@@ -111,6 +95,4 @@
 .radio_button {
   font-size:14px;
   text-align:left;
-}
-.flow_shape {
 }
